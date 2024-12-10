@@ -43,11 +43,11 @@ Bem-vindo ao repositório do aplicativo de Análise de Sentimento! Este projeto 
 
 ## Ganhos em Análises e Dia a Dia de Trabalho Com a Ferramenta
 
-### 1. ** Escalabilidade**:
+### 1. **Escalabilidade**:
  - Eficiência em Processamento: A análise de grandes volumes de dados de forma eficiente permite que qualquer pessoa processe comentários, avaliações e feedbacks em massa, reduzindo o tempo e os custos necessários para análise manual.
  - Automatização: Automatizar a análise de sentimentos para grandes conjuntos de dados permite que as pessoas tomem decisões mais rápidas e fundamentadas, baseadas em tendências e insights através dos gráficos produzidos na própria aplicação.
 
-### 2. ** Melhoria na Tomada de Decisão:**:
+### 2. **Melhoria na Tomada de Decisão:**:
 -  Feedback de Cliente: As pessoas podem usar a análise de sentimento para interpretar feedbacks de clientes, identificando padrões em feedbacks negativos ou positivos que podem ser abordados para melhorar a experiência do cliente. Como por exemplo, nas nuvens de palavras e no diagrama de Sankey que esclarece palavras e termos que são recorrentes em um grupo de sentimentos.
 
 ### 3. **Agilidade no Dia a Dia de Trabalho**:
