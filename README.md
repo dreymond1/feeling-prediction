@@ -32,7 +32,7 @@ Bem-vindo ao repositório do aplicativo de Análise de Sentimento! Este projeto 
 
 **Aba lateral dentro da aplicação**
 
-![Imagem referente ao tópico 2](img4.JPG)
+![Imagem referente ao tópico 2](img5.JPG)
 
 ## Tecnologias Utilizadas
 
