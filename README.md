@@ -10,6 +10,7 @@ Bem-vindo ao repositório do aplicativo de Análise de Sentimento! Este projeto 
 - **Contagem de Análises**: Mantém um contador de análises realizadas durante a sessão do usuário.
 
 **Funcionamento do primeiro input de texto para previsão isolada**
+
 ![Imagem referente ao tópico 1](img1.JPG)
 
 ### 2. **Análise de Sentimentos em Massa**:
@@ -17,10 +18,12 @@ Bem-vindo ao repositório do aplicativo de Análise de Sentimento! Este projeto 
 - **Processamento em Massa**: O aplicativo lê o arquivo, aplica o modelo a cada comentário e adiciona uma nova coluna com o resultado da previsão de sentimento.
 - **Gráficos Interativos**: Apresenta a distribuição dos sentimentos em gráficos de barras empilhados e lado a lado para visualização detalhada dos resultados.
 
-**Informação gerais das previsões**
+**Informações gerais das previsões**
+
 ![Imagem referente ao tópico 2](img2.JPG)
 
 **Gráficos de %**
+
 ![Imagem referente ao tópico 2](img3.JPG)
 
 ### 3. **Análise de Sentimentos diretamente na planilha do Google Sheets**:
@@ -28,6 +31,7 @@ Bem-vindo ao repositório do aplicativo de Análise de Sentimento! Este projeto 
 - **Aba interativa**: A aba lateral é interativa, com isso pode ser oculta, evitando uma poluição visual.
 
 **Aba lateral dentro da aplicação**
+
 ![Imagem referente ao tópico 2](img4.JPG)
 
 ## Tecnologias Utilizadas
@@ -50,6 +54,7 @@ Bem-vindo ao repositório do aplicativo de Análise de Sentimento! Este projeto 
 - Além do corte de custo necessário no tempo de análise, a ferramenta não só auxilia a pessoa que utiliza de forma situacional, mas também o analista que eventualmente pode prever os sentimentos em massa de comentários em uma planilha de seu meio de trabalho. Isso abre ainda mais o leque de opções de análises de tendências e situações com a utilização da variável "sentimento".
 
 **Diagrama de Sankey (A aplicação também conta com nuvens de palavras para cada sentimento)**
+
 ![Imagem referente ao tópico de ganhos](img4.JPG)
 
 Sobre o projeto, é isto :)
