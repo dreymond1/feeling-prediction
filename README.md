@@ -59,7 +59,7 @@ Bem-vindo ao repositório do aplicativo de Análise de Sentimento! Este projeto 
 
 Sobre o projeto, é isto :)
 
-Fique abaixo meus contatos
+Fique abaixo com os meus **contatos**
 
 [E-mail: andrey.alves9@gmail.com]
 [Linkedin](https://www.linkedin.com/in/andrey-de-abreu-9a499b154/)
