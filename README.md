@@ -9,6 +9,7 @@ Bem-vindo ao repositório do aplicativo de Análise de Sentimento! Este projeto 
 - **Previsão de Sentimento**: Ao clicar no botão "Analisar Sentimento", o modelo prevê se o sentimento do comentário é Positivo, Negativo ou Neutro.
 - **Contagem de Análises**: Mantém um contador de análises realizadas durante a sessão do usuário.
 
+**Funcionamento do primeiro input de texto para previsão isolada**
 ![Imagem referente ao tópico 1](img1.JPG)
 
 ### 2. **Análise de Sentimentos em Massa**:
