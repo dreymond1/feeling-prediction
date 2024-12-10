@@ -59,9 +59,6 @@ Bem-vindo ao repositório do aplicativo de Análise de Sentimento! Este projeto 
 
 ### **Observação**: Ao final de tudo, o arquivo CSV gerado com as previsões de sentimentos pode ser baixado!!
 
-
-Sobre o projeto, é isto :)
-
 ## Contatos
 
 andrey.alves9@gmail.com | [Linkedin](https://www.linkedin.com/in/andrey-de-abreu-9a499b154/)
